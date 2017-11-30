@@ -3,7 +3,7 @@
 
 # Data Science Resources
 
-This repository provides a collaborative [Wiki](https://github.com/bcgov/bcgov-data-science-resources/wiki) space for developing and sharing respources on computing tools, tutorials & tips for doing data science in the B.C. Government.
+This repository provides a collaborative [Wiki](https://github.com/bcgov/bcgov-data-science-resources/wiki) space for developing and sharing resources on computing tools, tutorials & tips for doing data science in the B.C. Government.
 
 Visit the [wiki](https://github.com/bcgov/bcgov-data-science-resources/wiki).
 
